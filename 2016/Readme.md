@@ -4,6 +4,7 @@
 
 ## Разбор 
 Текстовый разбор задач параллелей C'-A: [pdf](editorial/editorial.pdf)
+
 Текстовый разбор задач параллели D: [pdf](editorial/editorial_D.pdf)
 
 ## Авторские решения задач
