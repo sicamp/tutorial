@@ -3,9 +3,9 @@
 которые выложены в этом репозитории, в папке solutions.
 
 ## Разбор 
-Текстовый разбор задач параллелей C'-A: [pdf](editorial/editorial.pdf)
+Текстовый разбор задач параллелей C'-A: [pdf](https://github.com/sicamp/tutorial/raw/master/2016/editorial/editorial.pdf)
 
-Текстовый разбор задач параллели D: [pdf](editorial/editorial_D.pdf)
+Текстовый разбор задач параллели D: [pdf](https://github.com/sicamp/tutorial/raw/master/2016/editorial/editorial_D.pdf)
 
 ## Авторские решения задач
 
