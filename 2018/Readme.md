@@ -4,3 +4,5 @@
 
 ## Разбор 
 Текстовый разбор задач параллелей C'-A: [pdf](https://github.com/sicamp/tutorial/raw/master/2018/tutorial/tutorial.pdf)
+
+Текстовый разбор задач параллели D: [pdf](https://github.com/sicamp/tutorial/raw/master/2018/tutorial/tutorial_d.pdf)
